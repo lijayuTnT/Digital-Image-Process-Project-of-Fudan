@@ -17,7 +17,7 @@ cd improve_model
 2. Make conda environment
 ```
 conda create -n DMPNet python=3.8
-conda activate DM2F
+conda activate DMPNet
 ```
 ```
 pip install -r requirements.txt
